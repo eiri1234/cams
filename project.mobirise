@@ -63,10 +63,11 @@
     "favicon": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
+    "sitemapSwitcherAuto": "on",
     "siteUrl": false,
     "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n"
   },
   "pages": {
     "page1.html": {
@@ -2620,7 +2621,7 @@
     },
     "cams.html": {
       "settings": {
-        "title": "Page 3",
+        "title": "cams",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
