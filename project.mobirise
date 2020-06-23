@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "cams.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1750,7 +1750,8 @@
         "meta_descr": "Best New Documentaries, Beach Cams, News Channels",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/twitterbackgroungdocworld-1600x900.jpg"
       },
       "components": [
         {
